@@ -1,0 +1,43 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    color: black;
+}
+body{
+    background-color: green;
+}
+ol{
+    color: black;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+ul{
+    color: black;
+    font-size: 15px;
+}
+.indent {
+    text-indent: 40px;
+}
+.header {
+    background-color: tan;
+    padding: 20px;
+    text-align: center;
+}
+
+.content {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.footer {
+    background-color: lightgray;
+    padding: 20px;
+    text-align: center;
+}
+.tableau {
+    margin: 20px auto;
+}
